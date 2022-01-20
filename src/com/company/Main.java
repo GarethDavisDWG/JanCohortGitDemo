@@ -18,6 +18,6 @@ public class Main
         PaintName.length();
         double e = (double)10/4;
         double d = Math.ceil(e);
-        System.out.println(d);
+        System.out.println("we need "+tinsNeeded+" tins of paint");
     }
 }
